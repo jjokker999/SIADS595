@@ -1,6 +1,3 @@
-Milestone 1 Project 1 Analysis of Movie Streaming sites file contains the jupyter file for the code done in working with the Kaggle datasets and the IMDB datasets. 
-
-
 ## Data Sources
    title_ratings.tsv contains the data for the combined IMDB data.
    credits.csv contains the data for people involved in the films
@@ -10,9 +7,10 @@ Milestone 1 Project 1 Analysis of Movie Streaming sites file contains the jupyte
 
 ## Jupyter notebook files for data cleaning and manipulation 
    Projectwork.ipynb contains the steps to clean and manipulate Netflix.csv and Disney.csv into Final_result.csv, which is the Finance Performance dataset
-
+   Milestone 1 Project 1 Analysis of Movie Streaming sites file contains the jupyter file for the code done in working with the Kaggle datasets and the IMDB datasets. 
 
 ## Jupyter notebook files for analysis and visualzations
+   Milestone 1 Project 1 Analysis of Movie Streaming sites file contains the jupyter file for the code done in working with the Kaggle datasets and the IMDB datasets. 
 
 
 
