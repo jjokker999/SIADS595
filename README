@@ -6,9 +6,10 @@ Milestone 1 Project 1 Analysis of Movie Streaming sites file contains the jupyte
    credits.csv contains the data for people involved in the films
    MoviesOnStreamingPlatforms.csv contains the data for the combined datasets for the Kagggle
    Netflix.csv contains the data from the Netflix SEC filings
-   Disney.csv. contains the data from the Disney SEC filings
+   Disney.csv contains the data from the Disney SEC filings
 
-## Jupyter notebook files for data cleaning and mantipulation 
+## Jupyter notebook files for data cleaning and manipulation 
+   Projectwork.ipynb contains the steps to clean and manipulate Netflix.csv and Disney.csv into Final_result.csv, which is the Finance Performance dataset
 
 
 ## Jupyter notebook files for analysis and visualzations
